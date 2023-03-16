@@ -1,4 +1,4 @@
-module github.com/sjmudd/ps-top
+module github.com/junamai2000/ps-top
 
 go 1.18
 
